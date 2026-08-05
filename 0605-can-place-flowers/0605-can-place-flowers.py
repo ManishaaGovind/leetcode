@@ -9,4 +9,3 @@ class Solution:
                 if n == 0:
                     return True
         return False
-        
