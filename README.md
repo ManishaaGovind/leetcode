@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ManishaaGovind/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/ManishaaGovind/leetcode/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ManishaaGovind/leetcode/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ManishaaGovind/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
