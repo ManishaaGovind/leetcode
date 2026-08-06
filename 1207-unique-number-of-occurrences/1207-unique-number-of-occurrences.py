@@ -1,0 +1,11 @@
+class Solution:
+    def uniqueOccurrences(self, arr: List[int]) -> bool:
+        freq = {}
+    
+        # enter elements into hashmap with their frequency
+        for i in arr:
+            if i not in freq:
+                freq[i] = 0
+            freq[i] += 1
+    
+        return len(freq) == len(set(freq.values()))
